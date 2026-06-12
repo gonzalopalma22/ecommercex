@@ -165,4 +165,4 @@ Si okwu.cl no está disponible, el sistema retorna los productos almacenados en 
 
 ## Frontend
 
-El frontend desarrollado en React + Vite se encuentra en el repositorio del compañero de equipo y se conecta a esta API mediante la URL base `http://127.0.0.1:8000/api`.
+El frontend desarrollado en React + Vite se encuentra en otro repositorio y se conecta a esta API mediante la URL base `http://127.0.0.1:8000/api`.
